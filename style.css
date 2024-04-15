@@ -1,0 +1,12 @@
+.clock {
+  width: 300px; /* Adjust size as needed */
+  height: 300px;
+  border-radius: 50%; /* Make it a circle */
+  margin: 0 auto; /* Center the clock */
+  position: relative; /* Needed for number positioning */
+}
+
+.clock .number {
+  position: absolute; /* Position numbers inside the clock */
+  /* Add styles for font size, color, etc. */
+}
